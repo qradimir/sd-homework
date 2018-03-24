@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Actors" type="JetRunConfigurationType" factoryName="Kotlin">
+    <option name="VM_PARAMETERS" value="-DAzureKey=d5c579e345644536be5cb6d2b1fd8094" />
+    <option name="PROGRAM_PARAMETERS" value="" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="PASS_PARENT_ENVS" value="true" />
+    <option name="MAIN_CLASS_NAME" value="ru.itmo.ctddev.sorokin.sd.actors.MasterActorKt" />
+    <option name="WORKING_DIRECTORY" value="" />
+    <module name="hw2" />
+    <envs />
+    <method />
+  </configuration>
+</component>
